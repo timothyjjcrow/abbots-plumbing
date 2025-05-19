@@ -1,0 +1,4 @@
+# Ignore all image files
+images/*
+# Except the .gitkeep file
+!images/.gitkeep 
